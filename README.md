@@ -1,0 +1,2 @@
+# Manchester_code_Decoding_Script
+曼切斯特码及差分曼切斯特码解码脚本
